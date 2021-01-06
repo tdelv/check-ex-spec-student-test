@@ -1,1 +1,1 @@
-{"name":"sample","chaffs":["sample-chaff1","sample-chaff2"],"wheats":["sample-wheat"]}
+{"provides":["a","b","c","d"],"name":"sample","chaffs":["sample-chaff1","sample-chaff2"],"wheats":["sample-wheat"]}
